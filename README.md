@@ -24,14 +24,5 @@ Contact:
 📷 Instagram: @bl.y4
 🎥 TikTok: @222d
 👻 Snapchat: @rh9ma
-📫 How to reach me:
-Email: rashedhumaid@proton.me 
-Instagram: bl.y4
-TikTok: 222d
-Snapchat: rh9ma
 
-⚡ Fun fact:
-I hold 47 certifications from Cisco and W3Schools!
-I earned a second and third-place medal in the Emirates Skills competition.
-I was the first English Spelling Bee winner in 2022-2023.
-I have a collection of signed memorabilia, including a kandora signed by Sheikh MBZ and an Akira Nakai-signed Porsche side skirt.
+
