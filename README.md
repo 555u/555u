@@ -11,7 +11,7 @@ Balancing my passion for technology with life’s simple joys and hobbies.
 Advanced Python and app development.
 UAE National Identity and cultural preservation through tech (for an app prototype).
 Skills to perfect my craft in UX/UI design (Google-certified diploma holder).
-Preparing myself for future studies at police college while mastering computer science.
+Preparing myself for future studies at police college while mastering cyber security.
 
 💞️ I’m looking to collaborate on:
 Innovative projects that combine tradition with technology.
@@ -23,8 +23,6 @@ Email: rashedhumaid@proton.me
 Instagram: bl.y4
 TikTok: 222d
 Snapchat: rh9ma
-😄 Pronouns:
-He/Him
 
 ⚡ Fun fact:
 I hold 47 certifications from Cisco and W3Schools!
