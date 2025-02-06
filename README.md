@@ -1,23 +1,29 @@
-👋 Hi, I’m @555u
-I'm Rashed, a tech-savvy grade 10 student passionate about coding, technology, and creating meaningful projects.
+Rashed Humaid | Grey Hat | Cybersecurity | UI/UX
+About Me:
+I don’t follow trends—I set standards. Cybersecurity, UI/UX, and AI aren’t just fields I work in; they’re systems I understand, manipulate, and refine. Security isn’t just about protection—it’s about control. A well-designed interface isn’t just aesthetic—it’s calculated. My work is built on precision, execution, and dominance.
 
-👀 I’m interested in:
-Cybersecurity and ethical hacking (future goal: becoming a gray hat hacker).
-Developing apps and websites with excellent UI/UX features.
-Exploring artificial intelligence and its potential to improve our lives.
-Balancing my passion for technology with life’s simple joys and hobbies.
+Mastery isn’t claimed—it’s proven.
 
-🌱 I’m currently learning:
-Advanced Python and app development.
-UAE National Identity and cultural preservation through tech (for an app prototype).
-Skills to perfect my craft in UX/UI design (Google-certified diploma holder).
-Preparing myself for future studies at police college while mastering cyber security.
-
-💞️ I’m looking to collaborate on:
-Innovative projects that combine tradition with technology.
-Web and app design projects that focus on aesthetics and functionality.
-Hackathons and coding challenges with like-minded peers.
-
+Expertise:
+Grey Hat Cybersecurity – Systems are meant to be understood
+Advanced Python & Full-Stack Development – From backend logic to frontend precision
+AI & Digital Cultural Preservation – Innovating without losing identity
+UI/UX Engineering – Google-certified, focused on function over fluff
+Current Work:
+Historica – A UAE National Identity preservation app
+Expanding cybersecurity and digital forensics knowledge for high-level security operations
+Competing in hackathons—sharpening strategy, speed, and execution
+Certifications & Achievements:
+47 certifications from Cisco & W3Schools
+Emirates Skills Competition – 2nd & 3rd place medalist
+First English Spelling Bee Champion (2022-2023)
+Collector of rare signed memorabilia (Sheikh MBZ, Akira Nakai, Charles Leclerc, and more)
+Owner of high-value, rare usernames and handles across multiple platforms
+Contact:
+📧 Email: rashedhumaid@proton.me
+📷 Instagram: @bl.y4
+🎥 TikTok: @222d
+👻 Snapchat: @rh9ma
 📫 How to reach me:
 Email: rashedhumaid@proton.me 
 Instagram: bl.y4
