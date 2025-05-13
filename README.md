@@ -1,39 +1,44 @@
-# Rashed Humaid | Grey Hat | Cybersecurity | UI/UX
+# **Rashed Humaid Alblooshi**  
+**Cybersecurity | UI/UX Design | Full-Stack Development | Digital Forensics**
 
-## About Me
-I don’t follow trends—I set standards. Cybersecurity, UI/UX, and AI aren’t just fields I work in; they’re systems I understand, manipulate, and refine. Security isn’t just about protection—it’s about control. A well-designed interface isn’t just aesthetic—it’s calculated. My work is built on precision, execution, and dominance.
+---
 
-Mastery isn’t claimed—it’s proven.
+## **🚀 About Me**  
+I'm passionate about building secure, user-focused digital systems that combine modern technology with cultural depth. From cybersecurity and UI/UX to AI and digital forensics, I create with purpose—designing experiences that are functional, secure, and culturally aware.
 
-## Expertise
-- **Grey Hat Cybersecurity** – Systems are meant to be understood and refined.
-- **Advanced Python & Full-Stack Development** – From backend logic to frontend precision.
-- **AI & Digital Cultural Preservation** – Innovating without losing identity.
-- **UI/UX Engineering** – Google-certified, focused on function over fluff.
-- **Digital Forensics & Security** – Founder of **RH Forensics**, specializing in high-level digital investigations.
+---
 
-## Current Work
-- **Historica** – A UAE National Identity preservation app that focuses on heritage, values, religion, and the Arabic language, balancing traditions and future aspirations.
-- Expanding cybersecurity and digital forensics knowledge for high-level security operations.
-- Founder of **RH Forensics** – Specializing in digital forensics, security audits, and investigations.
-- Competing in hackathons to sharpen strategy, speed, and execution.
+## **🛠️ Areas of Expertise**  
+- **Cybersecurity (Grey Hat)** – Ethical security testing, vulnerability analysis, and proactive defense.  
+- **Digital Forensics** – Founder of **RH Forensics**, specializing in audits, investigations, and incident response.  
+- **Full-Stack Development** – Proficient in frontend and backend development with modern web technologies.  
+- **AI & Digital Culture** – Bridging artificial intelligence with Arabic and Emirati cultural preservation.  
+- **UI/UX Engineering** – Google-certified, focused on clarity, simplicity, and high usability.
 
-## Certifications & Achievements
-- **57 Certifications** from Cisco & W3Schools & hackthebox.
-- **Emirates Skills Competition** – 2nd & 3rd Place Medalist.
-- **First English Spelling Bee Champion** (2022-2023).
-- **Collector of Rare Signed Memorabilia** – Including items from Sheikh MBZ, Akira Nakai, Charles Leclerc, and others.
-- Owner of high-value, rare usernames and handles across multiple platforms.
-- **Skills**: Grey Hat Cybersecurity, Full-Stack Development, UI/UX Engineering, AI Innovations, Digital Cultural Preservation, Digital Forensics.
+---
 
-## Notable Projects
-- **Historica** – UAE National Identity Preservation App (focused on cultural heritage, values, religion, and language).
-- **Cybersecurity Operations** – Expanding expertise in digital forensics and high-level security operations.
-- Founder of **RH Forensics** – Specializing in digital forensics and investigations.
-- Participating in **Hackathons** – Competing for strategy, speed, and execution refinement.
+## **📂 Current Projects**  
+- **Historica** – UAE National Identity Preservation App, highlighting heritage, values, religion, and Arabic language.  
+- **RH Forensics** – A platform for digital forensics, cybersecurity audits, and investigative services.  
+- **Hackathon Participation** – Regularly competing in national and international challenges to sharpen speed, strategy, and innovation.
 
-## Contact
-- 📧 **Email**: [rashedhumaid@proton.me](mailto:rashedhumaid@proton.me)
-- 📷 **Instagram**: [@emiratidev](https://instagram.com/emiratidev)
-- 🎥 **TikTok**: [@222d](https://tiktok.com/@222d)
+---
+
+## **🏅 Certifications & Achievements**  
+- **57+ Certifications** – Including Cisco, W3Schools, HackTheBox, and more.  
+- **Emirates Skills Medalist** – 2nd & 3rd place in national-level competitions.  
+- **Spelling Bee Champion** – First place (2022–2023).  
+- **Collector of Rare Memorabilia** – Featuring items from HH Sheikh MBZ, Akira Nakai, Charles Leclerc, and others.  
+- **Digital Identity Specialist** – Known for acquiring rare and high-value usernames across digital platforms.
+
+---
+## **🧠 Skills Snapshot**  
+**Cybersecurity** • **Digital Forensics** • **Full-Stack Development** • **UI/UX Engineering** • **AI Innovation** • **Cultural Tech Projects**
+
+---
+
+## **🌍 Connect With Me**  
+- 📧 **Email**: [rashedhumaid@proton.me](mailto:rashedhumaid@proton.me)  
+- 📷 **Instagram**: [@emiratidev](https://instagram.com/emiratidev)  
+- 🎥 **TikTok**: [@222d](https://tiktok.com/@222d)  
 - 👻 **Snapchat**: [@rh9ma](https://snapchat.com/add/rh9ma)
