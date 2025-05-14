@@ -21,7 +21,7 @@ I'm passionate about building secure, user-focused digital systems that combine 
 - **Historica** – UAE National Identity Preservation App, highlighting heritage, values, religion, and Arabic language.  
 - **RH Forensics** – A platform for digital forensics, cybersecurity audits, and investigative services.  
 - **Hackathon Participation** – Regularly competing in national and international challenges to sharpen speed, strategy, and innovation.
-
+- **Mirath** – A 1:1 digital replica of the Library of Alexandria, dedicated exclusively to the history of the UAE (1733–2025).
 ---
 
 ## **🏅 Certifications & Achievements**  
